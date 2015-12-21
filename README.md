@@ -3,7 +3,7 @@
 An experimental node.js script to create random german sentences suitable as passwords from a database of 431.000 word variants.
 
 
-## Installation
+## Installation and Usage
 
 * Clone repository
 * Run `npm init`
@@ -18,6 +18,6 @@ An experimental node.js script to create random german sentences suitable as pas
 * http://www.danielnaber.de/morphologie/
 * (CC BY-SA 4.0)
 
-## Idea:
+## Idea
 
 * https://xkcd.com/936/
