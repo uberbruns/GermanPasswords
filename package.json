@@ -1,0 +1,16 @@
+{
+  "name": "gerpass",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gerpass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karsten Bruns",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "sqlite3": "^3.1.1",
+    "xml-stream": "^0.4.5"
+  }
+}
