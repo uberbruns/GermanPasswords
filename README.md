@@ -11,7 +11,7 @@ An experimental node.js script to create random german sentences suitable as pas
 * Run `node gerpass.js`
 
 
-## Examples
+## Output Examples
 
 ```
 angreifbare-rachsucht-thesaurierte-kälberei
